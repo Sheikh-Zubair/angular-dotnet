@@ -6,6 +6,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+.*/
 
 # Dependencies
 **/node_modules/
